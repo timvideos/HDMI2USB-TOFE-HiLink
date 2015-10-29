@@ -104,7 +104,7 @@
     (fp_text reference U? (at 5 1.75) (layer F.SilkS)
       (effects (font (size 1.016 1.016) (thickness 0.254)))
     )
-    (fp_text value TOFE_Expansion_Board_8x_HalfHeight (at 27.3685 -11.3665) (layer F.SilkS) hide
+    (fp_text value TOFE_HiLink_Expansion_Board_8x_HalfHeight (at 27.3685 -11.3665) (layer F.SilkS) hide
       (effects (font (size 1.016 1.016) (thickness 0.254)))
     )
     (fp_line (start 167.75 -64) (end 167.75 -64.5) (layer F.SilkS) (width 0.2))
