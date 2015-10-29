@@ -63,4 +63,5 @@ LibName10=memory
 LibName11=xilinx
 LibName12=TOFE
 LibName13=EEPROM
-LibName14=TOFE-HiLink-cache
+LibName14=DisplayPort
+LibName15=TOFE-HiLink-cache
