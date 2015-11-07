@@ -14,6 +14,7 @@ LIBS:TOFE
 LIBS:EEPROM
 LIBS:DisplayPort
 LIBS:TOFE-HiLink-cache
+LIBS:axiom
 EELAYER 25 0
 EELAYER END
 $Descr A3 16535 11693
@@ -709,9 +710,9 @@ Wire Wire Line
 	5850 4000 6720 4000
 Wire Wire Line
 	5850 3900 6720 3900
-Text Label 6090 2900 0    60   ~ 0
+Text Label 7050 2230 0    60   ~ 0
 DP_TX0_AUX_P
-Text Label 6090 3000 0    60   ~ 0
+Text Label 7050 2330 0    60   ~ 0
 DP_TX0_AUX_N
 Text Label 6010 5700 0    60   ~ 0
 DP_TX0_N3
@@ -733,9 +734,9 @@ Wire Wire Line
 	5850 5900 6720 5900
 Text Label 6010 5900 0    60   ~ 0
 DP_TX0_CFG2
-Text Label 6090 3100 0    60   ~ 0
+Text Label 7050 2550 0    60   ~ 0
 DP_RX0_AUX_P
-Text Label 6090 3200 0    60   ~ 0
+Text Label 7050 2650 0    60   ~ 0
 DP_RX0_AUX_N
 Wire Wire Line
 	4150 3300 3320 3300
